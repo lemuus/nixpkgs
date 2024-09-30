@@ -699,6 +699,16 @@
         },
         "version": "unstable-2024-09-25"
     },
+    "quasi88": {
+        "fetcher": "fetchFromGitHub",
+        "src": {
+            "owner": "libretro",
+            "repo": "quasi88-libretro",
+            "rev": "603c1dd5b6e8464dddce2ef299cad201d1e02ddb",
+            "hash": "sha256-Q3hnWKOIPKv0AIVuFokk+Gdg2ZzD7+Tu4YBCFhey1Qc="
+        },
+        "version": "unstable-2024-09-25"
+    },
     "quicknes": {
         "fetcher": "fetchFromGitHub",
         "src": {

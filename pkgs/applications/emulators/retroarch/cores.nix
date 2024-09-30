@@ -943,6 +943,16 @@ in
     };
   };
 
+  quasi88 = mkLibretroCore {
+    core = "quasi88";
+    makefile = "Makefile";
+    NIX_CFLAGS_COMPILE = "-Wno-error=format-security";
+    meta = {
+      description = "Quasi88 libretro port";
+      license = lib.licenses.bsd3;
+    };
+  };
+
   sameboy = mkLibretroCore {
     core = "sameboy";
     extraNativeBuildInputs = [ which hexdump ];

@@ -107,6 +107,7 @@ CORES = {
     "prosystem": {"repo": "prosystem-libretro"},
     "puae": {"repo": "libretro-uae"},
     "quicknes": {"repo": "QuickNES_Core"},
+    "quasi88": {"repo": "quasi88-libretro"},
     "sameboy": {"repo": "sameboy"},
     "same_cdi": {"repo": "same_cdi"},
     # This is the old source code before they upstreamed the source code,
